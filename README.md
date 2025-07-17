@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:77c4d3,100:a3d8f4&height=250&section=header&text=Lee%20Suin&fontSize=60&fontColor=ffffff)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=435&lines=🌸+Hello!+I'm+Suin!;An+INTP+developer+who+loves+logic+and+aesthetics+🌸" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=435&lines=🌸+Hello!+I'm+Suin!+🌸" alt="Typing SVG" />
 
 </div>
 
